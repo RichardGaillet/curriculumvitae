@@ -1,0 +1,21 @@
+.print {
+    position: absolute;
+    bottom: 0px;
+    right: 20px
+}
+
+.bg-orange {
+    background-color: #f9ae53
+}
+
+.bg-blue {
+    background-color: #55a0f9
+}
+
+.text-orange {
+    color: #f9ae53
+    }
+
+.text-blue {
+    color: #55a0f9
+}
