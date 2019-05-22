@@ -1,1 +1,2 @@
-Curriculum Vitae en ligne :https://richardgaillet.github.io/curriculumvitae/
+Curriculum Vitae en ligne :
+https://richardgaillet.github.io/curriculumvitae/
