@@ -7,3 +7,15 @@
 .bg-react {
     background-color: #61dbfb
 }
+
+.border-bottom-experiences {
+    border-bottom: 3px solid #f7e136
+}
+
+.border-bottom-formations {
+    border-bottom: 3px solid #68a063
+}
+
+.border-bottom-competences {
+    border-bottom: 3px solid #563e7c
+}
