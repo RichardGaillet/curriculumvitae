@@ -9,13 +9,16 @@
 }
 
 .border-bottom-experiences {
+    background-color: lightgray;
     border-bottom: 3px solid #f7e136
 }
 
 .border-bottom-formations {
+    background-color: lightgray;
     border-bottom: 3px solid #68a063
 }
 
 .border-bottom-competences {
+    background-color: lightgray;
     border-bottom: 3px solid #563e7c
 }
