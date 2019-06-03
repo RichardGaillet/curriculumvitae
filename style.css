@@ -22,3 +22,7 @@
     background-color: lightgray;
     border-bottom: 3px solid #563e7c
 }
+
+.border-right-react {
+    border: 3px solid #61dbfb
+}
