@@ -1,25 +1,30 @@
 .print {
-    /* position: absolute;
-    bottom: 0px;
-    left: 20px */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    opacity: 0.5;
 }
 
-.border-react {
+.print:hover {
+    opacity: 1;
+}
+
+.border-profil {
     background-color: lightgray;
     border: 3px solid#61dbfb
 }
 
-.border-javascript {
+.border-experiences {
     background-color: lightgray;
     border-bottom: 3px solid #f7e136
 }
 
-.border-node {
+.border-formations {
     background-color: lightgray;
     border-bottom: 3px solid #68a063
 }
 
-.border-css {
+.border-competences {
     background-color: lightgray;
-    border-bottom: 3px solid #256baa
+    border-bottom: 3px solid #7754bd
 }
