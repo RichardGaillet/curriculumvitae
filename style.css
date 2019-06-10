@@ -1,28 +1,25 @@
 .print {
-    position: absolute;
+    /* position: absolute;
     bottom: 0px;
-    right: 20px
+    left: 20px */
 }
 
-.bg-react {
-    background-color: #61dbfb
+.border-react {
+    background-color: lightgray;
+    border: 3px solid#61dbfb
 }
 
-.border-bottom-experiences {
+.border-javascript {
     background-color: lightgray;
     border-bottom: 3px solid #f7e136
 }
 
-.border-bottom-formations {
+.border-node {
     background-color: lightgray;
     border-bottom: 3px solid #68a063
 }
 
-.border-bottom-competences {
+.border-css {
     background-color: lightgray;
-    border-bottom: 3px solid #563e7c
-}
-
-.border-right-react {
-    border: 3px solid #61dbfb
+    border-bottom: 3px solid #256baa
 }
