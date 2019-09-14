@@ -1,30 +1,37 @@
 .print {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    opacity: 0.5;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  opacity: 0.5;
 }
 
 .print:hover {
-    opacity: 1;
+  opacity: 1;
 }
 
 .border-profil {
-    background-color: lightgray;
-    border: 3px solid#61dbfb
+  background-color: lightgray;
+  border: 3px solid#61dbfb;
 }
 
 .border-experiences {
-    background-color: lightgray;
-    border-bottom: 3px solid #f7e136
+  background-color: lightgray;
+  border-bottom: 3px solid #f7e136;
 }
 
 .border-formations {
-    background-color: lightgray;
-    border-bottom: 3px solid #68a063
+  background-color: lightgray;
+  border-bottom: 3px solid #68a063;
 }
 
 .border-competences {
-    background-color: lightgray;
-    border-bottom: 3px solid #7754bd
+  background-color: lightgray;
+  border-bottom: 3px solid #7754bd;
+}
+
+.logo {
+  width: 64px;
+  display: block;
+  margin: auto;
+  vertical-align: none;
 }
